@@ -1,0 +1,11 @@
+Topics to read about :
+    1)abstract class
+    2)difference between abstract classes and interface
+    3)oop(overall)
+    4)type of classes
+    5)dynamic and static polymorphism
+    6)difference between Animal animal = new Bird() and Bird bird = new Bird()
+    7)Type safety
+    8)abstract classes
+    9)super keyword usage
+    10)functional and marked interface

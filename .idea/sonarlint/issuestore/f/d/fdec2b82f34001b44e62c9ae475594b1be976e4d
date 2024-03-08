@@ -1,0 +1,15 @@
+
+Y
+java:S1854"<Remove this useless assignment to local variable "counter2".(˜šé8½¡½ñ×1
+W
+java:S1854";Remove this useless assignment to local variable "counter".(Â¯ó8¾¡½ñ×1
+C
+java:S2440"'Remove this instantiation of "Counter".(Â¯ó8¿¡½ñ×1
+H
+java:S1481",Remove this unused "counter" local variable.(Â¯ó8À¡½ñ×1
+L	java:S106"+Replace this use of System.out by a logger.(•Ãä·ùÿÿÿÿ8Ã¡½ñ×1
+D
+java:S2440"'Remove this instantiation of "Counter".(˜šé8À¡½ñ×1
+J
+java:S1481"-Remove this unused "counter2" local variable.(˜šé8Á¡½ñ×1
+L	java:S106	"+Replace this use of System.out by a logger.(øîŸşÿÿÿÿ8Ûñ½ñ×1

@@ -1,0 +1,16 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ş÷Öîà1
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÿ÷Öîà1
+g	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÿ÷Öîà1
+›
+java:S1192"~Define a constant instead of duplicating this literal "_____________________________________________________________" 3 times.(œ³ƒø8 Æªïà1
+G	java:S106"+Replace this use of System.out by a logger.(œ³ƒø8‡øÖîà1
+G	java:S106"+Replace this use of System.out by a logger.(œ³ƒø8‘ï©ïà1
+L	java:S106"+Replace this use of System.out by a logger.(Ä·™Œÿÿÿÿÿ8§¨ªïà1
+G	java:S106"+Replace this use of System.out by a logger.(œ³ƒø8¯Æªïà1
+@
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD8ñßÙîà1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ñßÙîà1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ñßÙîà1

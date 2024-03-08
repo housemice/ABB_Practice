@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢Ş±Áøÿÿÿÿ
+m	java:S116	"QRename this field "READER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÑ—Ï8»’êªİ1
+G	java:S106"+Replace this use of System.out by a logger.(Í²Š8Ô’êªİ1
+L	java:S106"+Replace this use of System.out by a logger.(‚º‡Ùøÿÿÿÿ8Ö’êªİ1
+G	java:S106"+Replace this use of System.out by a logger.(î¥££8Ú’êªİ1
+L	java:S106"+Replace this use of System.out by a logger.(Ùâíøÿÿÿÿ8Û’êªİ1
+F	java:S106."+Replace this use of System.out by a logger.(²òŠ8á’êªİ1

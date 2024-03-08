@@ -1,0 +1,20 @@
+
+\
+java:S1854":Remove this useless assignment to local variable "inner3".(ÛğÇıûÿÿÿÿ8Ä‚ÒØ1
+W
+java:S1854":Remove this useless assignment to local variable "inner2".(á½ã©8Ä‚ÒØ1
+\
+java:S1854":Remove this useless assignment to local variable "inner1".(Ûò¢£üÿÿÿÿ8Ä‚ÒØ1
+G
+java:S2440"%Remove this instantiation of "Inner".(Ûò¢£üÿÿÿÿ8Ä‚ÒØ1
+M
+java:S1481"+Remove this unused "inner1" local variable.(Ûò¢£üÿÿÿÿ8‘Ä‚ÒØ1
+B
+java:S2440"%Remove this instantiation of "Inner".(á½ã©8‘Ä‚ÒØ1
+H
+java:S1481"+Remove this unused "inner2" local variable.(á½ã©8’Ä‚ÒØ1
+G
+java:S2440"%Remove this instantiation of "Inner".(ÛğÇıûÿÿÿÿ8’Ä‚ÒØ1
+M
+java:S1481"+Remove this unused "inner3" local variable.(ÛğÇıûÿÿÿÿ8’Ä‚ÒØ1
+G	java:S106"+Replace this use of System.out by a logger.(ùÖÖ›8’Ä‚ÒØ1

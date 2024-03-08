@@ -1,0 +1,8 @@
+
+U
+java:S1854"9Remove this useless assignment to local variable "book3".(ªô·88À¹Â¸Ü1
+F
+java:S1481"*Remove this unused "book3" local variable.(ªô·88Ã¹Â¸Ü1
+X	java:S125"<This block of commented-out lines of code should be removed.(î×äà8Å¹Â¸Ü1
+F	java:S106"+Replace this use of System.out by a logger.(‘ö“8á‰¼¸Ü1
+X	java:S125"<This block of commented-out lines of code should be removed.(ß„òÂ8×ÃÒ¸Ü1

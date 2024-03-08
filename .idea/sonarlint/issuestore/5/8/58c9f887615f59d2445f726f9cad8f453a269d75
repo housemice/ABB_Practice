@@ -1,0 +1,33 @@
+
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍïåÁûÿÿÿÿ8ã¬ï„Ü1
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Å ÀÕ8±­ï„Ü1
+L	java:S106"+Replace this use of System.out by a logger.(ä†»—şÿÿÿÿ8Â­ï„Ü1
+L	java:S106"+Replace this use of System.out by a logger.(¬€¬üÿÿÿÿ8Ã­ï„Ü1
+L	java:S106"+Replace this use of System.out by a logger.(¿¦±‚üÿÿÿÿ8Å­ï„Ü1
+L	java:S106"+Replace this use of System.out by a logger.(ŠÊ® úÿÿÿÿ8Æ­ï„Ü1
+F	java:S106#"+Replace this use of System.out by a logger.(ıãª8Ë­ï„Ü1
+G	java:S106%"+Replace this use of System.out by a logger.(÷Òäé8Ï­ï„Ü1
+H
+java:S1172("+Remove this unused method parameter "name".(ÇºÈ“8Î­ï„Ü1
+L	java:S106*"+Replace this use of System.out by a logger.(Êğ—´úÿÿÿÿ8Ò­ï„Ü1
+G	java:S106-"+Replace this use of System.out by a logger.(Åàı8Ù­ï„Ü1
+L	java:S106/"+Replace this use of System.out by a logger.(Ã•ê‘üÿÿÿÿ8Ú­ï„Ü1
+L	java:S1063"+Replace this use of System.out by a logger.(·ûèÕÿÿÿÿÿ8Ü­ï„Ü1
+L	java:S1064"+Replace this use of System.out by a logger.(é±ŸÀşÿÿÿÿ8İ­ï„Ü1
+G	java:S1065"+Replace this use of System.out by a logger.(¾’•ô8Ñ¿¸Ü1
+L	java:S1066"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ò”İ¸Ü1
+o
+java:S6204<"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8à­ï„Ü1
+o
+java:S6204B"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8æ­ï„Ü1
+o
+java:S6204H"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8é­ï„Ü1
+o
+java:S6204N"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ì­ï„Ü1
+o
+java:S6204T"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ï­ï„Ü1
+o
+java:S6204Z"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ò­ï„Ü1
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¦Áã”8¹’¿¸Ü1
